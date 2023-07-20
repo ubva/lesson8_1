@@ -1,7 +1,7 @@
 let arr =[]
 
 
-for (let i =0; i < 8;i++) { 
+for (let i =0; i < 3;i++) { 
     let command = prompt('Komandani kiriting').split(',')
 
     if (command[0] == 'add') {
